@@ -1,0 +1,7 @@
+{
+  "name": "appseguimineto",
+  "description": "Herramienta para promotores para el registro de ventas con extracción de datos mediante IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
